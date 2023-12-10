@@ -1,0 +1,33 @@
+body {
+    background-color:aqua;
+}
+.container-title {
+    color:blue;
+    margin: 0 auto;
+    width: 500px;
+    text-align: center;
+    border: 10px solid black;
+}
+
+.about-container {
+    margin: 0 auto;
+    width: 1000px;
+    text-align: center;
+}
+
+.image {
+    height: 400px;
+    width: 700px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.image2 {
+    height: 240px;
+    width: 360px;
+}
